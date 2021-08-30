@@ -35,7 +35,7 @@ namespace degiskenler
 
             DateTime dt = DateTime.Now;
             Console.WriteLine(dt);
-            
+
 
             object o1 = "x";
             object o2 = 'y';
