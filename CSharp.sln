@@ -17,13 +17,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "if-else-if", "if-else-if\if
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "switch-case", "switch-case\switch-case.csproj", "{16A9F584-E333-4ADC-8176-B9BB9F3B60E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "donguler", "Donguler\donguler.csproj", "{B1D5C61E-75DD-4578-92E6-E614BBC48E2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "donguler", "Donguler\donguler.csproj", "{B1D5C61E-75DD-4578-92E6-E614BBC48E2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "donguler-while-foreach", "donguler-while-foreach\donguler-while-foreach.csproj", "{2CE16948-5FC7-4D4F-ADE1-25E664580648}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "donguler-while-foreach", "donguler-while-foreach\donguler-while-foreach.csproj", "{2CE16948-5FC7-4D4F-ADE1-25E664580648}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "diziler", "diziler\diziler.csproj", "{036DD8C5-F07C-4E16-9B26-0BDD6EDAB0AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "diziler", "diziler\diziler.csproj", "{036DD8C5-F07C-4E16-9B26-0BDD6EDAB0AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dizi-metodları", "dizi-metodları\dizi-metodları.csproj", "{A9560D29-7841-4160-BEF6-9BAF637F0BF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dizi-metodları", "dizi-metodları\dizi-metodları.csproj", "{A9560D29-7841-4160-BEF6-9BAF637F0BF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metotlar", "metotlar\metotlar.csproj", "{52453D7A-85B3-4B89-BFB0-9179B94D57B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metot-overloading", "metot-overloading\metot-overloading.csproj", "{C04AF674-6F75-4D35-9034-9E93645DCA37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recursive_extension_metotlar", "recursive_extension_metotlar\recursive_extension_metotlar.csproj", "{A95A4F7E-6B8D-4716-8C71-F5099064B636}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +81,18 @@ Global
 		{A9560D29-7841-4160-BEF6-9BAF637F0BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9560D29-7841-4160-BEF6-9BAF637F0BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9560D29-7841-4160-BEF6-9BAF637F0BF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52453D7A-85B3-4B89-BFB0-9179B94D57B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52453D7A-85B3-4B89-BFB0-9179B94D57B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52453D7A-85B3-4B89-BFB0-9179B94D57B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52453D7A-85B3-4B89-BFB0-9179B94D57B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C04AF674-6F75-4D35-9034-9E93645DCA37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C04AF674-6F75-4D35-9034-9E93645DCA37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C04AF674-6F75-4D35-9034-9E93645DCA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C04AF674-6F75-4D35-9034-9E93645DCA37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A95A4F7E-6B8D-4716-8C71-F5099064B636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A95A4F7E-6B8D-4716-8C71-F5099064B636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A95A4F7E-6B8D-4716-8C71-F5099064B636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A95A4F7E-6B8D-4716-8C71-F5099064B636}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
