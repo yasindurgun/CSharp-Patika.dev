@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31515.178
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "console-programlama", "console-programlama\console-programlama.csproj", "{69679C26-5A85-437E-AF88-A0F151BE0A45}"
 EndProject
@@ -69,9 +69,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "merge-sort", "merge-sort\me
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "binary-search-tree", "binary-search-tree\binary-search-tree.csproj", "{DE1C1750-5DFF-4094-BBD6-52569B935F02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "static-class", "static-class\static-class.csproj", "{C9FD3E81-C9EB-439B-B881-4284BB7ACD01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "static-class", "static-class\static-class.csproj", "{C9FD3E81-C9EB-439B-B881-4284BB7ACD01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", "{24A1391D-F381-4EDF-8260-54B0120BE5FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enum", "Enum\Enum.csproj", "{24A1391D-F381-4EDF-8260-54B0120BE5FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phone-directory-app", "phone-directory-app\phone-directory-app.csproj", "{4B270FCE-AC65-46E4-A2BE-49078E27E78B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -215,6 +217,10 @@ Global
 		{24A1391D-F381-4EDF-8260-54B0120BE5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24A1391D-F381-4EDF-8260-54B0120BE5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24A1391D-F381-4EDF-8260-54B0120BE5FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B270FCE-AC65-46E4-A2BE-49078E27E78B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B270FCE-AC65-46E4-A2BE-49078E27E78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B270FCE-AC65-46E4-A2BE-49078E27E78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B270FCE-AC65-46E4-A2BE-49078E27E78B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
